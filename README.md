@@ -7,7 +7,7 @@
     alt="maneki-cat-hello">
 </img>
 <h1 style= "text-align: center; color: #fca943;" > ~ WELCOME ~ 
-<p style = "text-align: center;color: #565a6e; font-size: 0.5rem;"><a href="https://lordicon.com" id="logo">icon from lordicon</a></p>
+<a href="https://lordicon.com" id="logo">icon from lordicon</a>
 </h1>
 
 
