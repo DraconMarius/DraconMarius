@@ -2,7 +2,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 133px;"
+           width: 100px;"
     src="./z-landing.gif" 
     alt="maneki-cat-hello">
 </img>
