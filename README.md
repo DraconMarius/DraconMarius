@@ -1,3 +1,5 @@
+![](./landing.svg)
+
 ### Hi there 👋
 
 <!--
