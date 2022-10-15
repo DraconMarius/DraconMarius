@@ -1,6 +1,20 @@
-![](./landing.svg)
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 133px;"
+    src="./z-landing.gif" 
+    alt="maneki-cat-hello">
+</img>
+<h1 style= "text-align: center; color: #fca943;" > ~ WELCOME ~ 
+<p style = "text-align: center;color: #565a6e; font-size: 0.5rem;"><a href="https://lordicon.com" id="logo">icon from lordicon</a></p>
+</h1>
 
-### Hi there 👋
+
+## Hi there 👋
+
+--More To Come--
+
 
 <!--
 **DraconMarius/DraconMarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- *I might have a lot of ideas, but not all of them are good. So thank you for testing them out with me* -->
