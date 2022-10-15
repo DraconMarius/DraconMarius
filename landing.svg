@@ -1,5 +1,6 @@
 <svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 <script src="https://cdn.lordicon.com/pzdvqjsp.js"></script>
 <lord-icon
     src="https://cdn.lordicon.com/fgxmcqrv.json"
@@ -10,7 +11,7 @@
     style="width:350px;height:350px">
 </lord-icon>
       </style>
-      <h1>Hello, world</h1>
+      <h1>~ Welcome ~</h1>
     </div>
   </foreignObject>
 </svg>
